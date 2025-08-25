@@ -1,0 +1,6 @@
+ollama
+langchain
+datasets
+langchain-ollama
+transformers
+torch
